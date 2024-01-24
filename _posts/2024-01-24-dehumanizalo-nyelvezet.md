@@ -1,7 +1,7 @@
 ---
 title: Dehumanizáló nyelvezet a szexuális és nemi kisebbségekkel szemben a médiában és a magyar társadalomban
 layout: post
-author: Varga Jácint
+author: "jacint"
 ---
 
 ## **BEVEZETÉS**
