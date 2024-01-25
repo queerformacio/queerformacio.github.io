@@ -1,7 +1,9 @@
 ---
-title: Dehumanizáló nyelvezet a szexuális és nemi kisebbségekkel szemben a médiában és a magyar társadalomban
 layout: post
-author: "jacint"
+title: Dehumanizáló nyelvezet a szexuális és nemi kisebbségekkel szemben a
+  médiában és a magyar társadalomban
+date: 2024-01-25T16:37:39.355Z
+author: jacint
 ---
 
 ## **BEVEZETÉS**
@@ -127,7 +129,7 @@ A véleményeket alapvetően két kategóriába lehet sorolni: a felvonulók st�
 
 Bár fontos megjegyezni, hogy a kettő kéz a kézben jár. Gyakori technika a magukat udvariasnak, moderáltnak tartó előítéletes emberektől, hogy a kisebbségek jogaiért való tüntetésének *módját* kritizálják, nem pedig magát a jogok fontosságát, viszont valahogy sosincs számukra olyan módja a jogokért való kiállásnak, ami elégségesen tiszteletteljes.
 
-*„Hogy őszinte legyek, eddig még soha nem vettem részt olyan nyílt megmozdulásban, ami „jól időzített” lett volna azoknak az időbeosztása szerint, akik nem szenvednek indokolatlanul a szegregáció kórjától. \[...\] Majdnem arra a sajnálatos következtetésre jutottam, hogy a négerek szabadság felé menetelésében nem a Fehér Polgárok Tanácsa jelenti a legnagyobb akadájt, még csak nem is a Ku Klux Klan-tagok, hanem a **mérsékelt fehérek,** akik elszántabban védelmezik a „rendet”, mint a jogosságot; \[...\] „Egyetértek veletek az elérendő célotokban, de nem érthetek egyet módszeretekkel, a nyílt megmozdulással””* - Dr. Martin Luther King Jr., [Levél a Birminghami Városi Börtönből](https://www.academia.edu/11317266/Martin_Luther_King_Levél_a_Birminghami_Városi_Börtönből).
+*„Hogy őszinte legyek, eddig még soha nem vettem részt olyan nyílt megmozdulásban, ami „jól időzített” lett volna azoknak az időbeosztása szerint, akik nem szenvednek indokolatlanul a szegregáció kórjától. \[...\] Majdnem arra a sajnálatos következtetésre jutottam, hogy a négerek szabadság felé menetelésében nem a Fehér Polgárok Tanácsa jelenti a legnagyobb akadályt, még csak nem is a Ku Klux Klan-tagok, hanem a **mérsékelt fehérek,** akik elszántabban védelmezik a „rendet”, mint a jogosságot; \[...\] „Egyetértek veletek az elérendő célotokban, de nem érthetek egyet módszeretekkel, a nyílt megmozdulással””* - Dr. Martin Luther King Jr., [Levél a Birminghami Városi Börtönből](https://www.academia.edu/11317266/Martin_Luther_King_Levél_a_Birminghami_Városi_Börtönből).
 
 Külön érdekes megfigyelni a Telex videó top kommentjét, ami azzal zár, hogy *„Nem tűnnek egészségesnek.”* Ugyanis a medikai félrekezelés az egyik [legszignifikánsabb megjelenése az afóbiának](https://link.springer.com/article/10.1007/s10508-020-01670-6). Az orvosok között sem ritka, hogy az aszexualitást nem tartják valódi jelenségnek, vagy hogy a szexuális vonzalom hiányát valamilyen rendellenességnek tulajdonítják.
 
