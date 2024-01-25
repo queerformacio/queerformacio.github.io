@@ -29,4 +29,4 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", required: false, widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-    sortable_fields: ['commit_date', 'title', 'commit_author']
+      - {label: "Author", name: "author", widget: "string"}
