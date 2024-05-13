@@ -197,3 +197,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-get-json
+
+jekyll_get_json:
+  - data: videok
+    json: 'https://duc.gay/videok.json'
