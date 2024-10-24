@@ -10,11 +10,14 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Kezdőlap
+  home: Blog
   categories: Kategóriák
   tags: Címkék
   archives: Archívum
   about: Rólunk
+  transhealth: Transz Egészségügy
+  digitalsafety: Digitális Biztonság
+  recommendations: Ajánlások
 
 # the text displayed in the search bar & search results
 search:
