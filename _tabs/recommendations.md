@@ -19,6 +19,7 @@ Ellátással, szolgáltatásokkal kapcsolatos:
 
 
 Közösségek:
+
 [Magyartransz subreddit](reddit.com/r/magyartransz)
 
 
