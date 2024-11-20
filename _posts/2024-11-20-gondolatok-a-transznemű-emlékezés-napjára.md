@@ -3,8 +3,7 @@ layout: blog
 title: Gondolatok a transznemű emlékezés napjára
 date: 2024-11-20T19:30:00.000Z
 author: Simon Alexa
-tags: transznemű emlékezés napja, transzneműség, emléknap,
-  gyűlölet-bűncselekmény, történelem
+tags: 
 ---
 **Kérlek, vigyázz magadra!**
 
