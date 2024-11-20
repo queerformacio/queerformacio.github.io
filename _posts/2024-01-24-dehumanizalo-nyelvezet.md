@@ -4,8 +4,8 @@ title: Dehumanizáló nyelvezet a szexuális és nemi kisebbségekkel szemben a
   médiában és a magyar társadalomban
 date: 2024-01-25T16:37:39.355Z
 author: jacint
+tags: dehumanizalo
 ---
-
 ## **BEVEZETÉS**
 
 <span id="_heading=h.2et92p0" class="anchor"></span>Magyarországon az állami médiában, és ebből következőleg a közbeszédben is 2018 óta gyakori témákká váltak a szexuális, romantikus és nemi kisebbségek (innentől queer), az állítólagos lobbizásaik és a közösséghez valamilyen úton kapcsolható extrém esetek szenzacionalizálása. Egy aktív és tudatos propagandafolyamatról van szó, ami az elmúlt 6 évben a queer személyekkel szembeni bántalmazás [statisztikailag kimutatható növekedéséhez vezetett](https://hatter.hu/hirek/mar-szivarvany-jel-sem-lehet-az-oviban-egy-eves-a-propagandatorveny).
@@ -14,13 +14,11 @@ author: jacint
 
 Ezen dolgozat elsődleges célja, hogy specifikusan a média nyelvhasználatát elemezze a témában, emellett azt, hogy ez hogyan gyűrűzik ki a szélesebb közbeszédbe, végül pedig, hogy ez miképp járul hozzá az érintettek helyzetének romlásához.
 
-## **<span class="smallcaps">ELSŐ FEJEZET</span>**
-
 ### **<span class="smallcaps">Mi a dehumanizáló nyelvezet</span>**
 
 Dehumanizáló nyelvezetnek számít minden, ami impliciten vagy expliciten bizonyos embereket, vagy embercsoportokat ember alattiként állít be. Külön hangsúly helyezendő az ember **alá** rendelésére. Nem csak szeparáció történik a többi embertől, hanem egy velük szembeni hierarchia felállítása is.
 
-A dehumanizáló nyelvezet nem pusztán egyének tárgya. Társadalmi szinten elsősorban hatalmi struktúrák eszközeként érdemes gondolni rá. A többségi társadalom vagy a vezető réteg arra alkalmazza, hogy a kisebbségeket és a társadalom alacsony szintjein lévő személyeket ne csak anyagilag, hanem az [emberek elméjében is lent tartsa](https://www.jstor.org/stable/26600483?searchText=dehumanizing language&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddehumanizing%2Blanguage&ab_segments=0%2FSYC-7052%2Ftest&refreqid=fastly-default%3A650006be1654c781de9c4124c127f99d), ezzel létrehozva egy világképet, ami a [vezetőréteg pozíciójának indoklást ad](https://cla.purdue.edu/academic/english/theory/marxism/modules/marxideology.html), és helyzetét stabilizálja.
+A dehumanizáló nyelvezet nem pusztán egyének tárgya. Társadalmi szinten elsősorban hatalmi struktúrák eszközeként érdemes gondolni rá. A többségi társadalom vagy a vezető réteg arra alkalmazza, hogy a kisebbségeket és a társadalom alacsony szintjein lévő személyeket ne csak anyagilag, hanem az \[emberek elméjében is lent tartsa](https://www.jstor.org/stable/26600483?searchText=dehumanizing language&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddehumanizing%2Blanguage&ab_segments=0%2FSYC-7052%2Ftest&refreqid=fastly-default%3A650006be1654c781de9c4124c127f99d), ezzel létrehozva egy világképet, ami a [vezetőréteg pozíciójának indoklást ad](https://cla.purdue.edu/academic/english/theory/marxism/modules/marxideology.html), és helyzetét stabilizálja.
 
 Extrém esetekben akár az alárendelt embercsoportokkal szembeni közvetlen erőszakot is elősegítik](). De a mindennapi életben általában közvetettebb formákban jelenik meg. Legyen szó rasszbéli kisebbségekről, például, hogy „fekete emberek” helyett egyszerűen „feketékként” utalnak rájuk, vagy hogy a „hajléktalant” és a „mélyszegényt” külön kategóriákká avatjuk, mintha ők nem is a homo sapiens tagjai lennének, akik egyszerűen nem rendelkeznek a kényelmes élethez elegendő anyagi javakkal, hanem egyfajta majdnememberek, zombik volnának.
 
@@ -30,7 +28,7 @@ A status quot védő média teljes erejével körbekürtöli az ilyen eseteket, 
 
 ### **<span class="smallcaps">Rövid történelmi áttekintése a 20. század második felének</span>**
 
-Könnyedén elérhető források híján ez a fejezet szinte kizárólag a Háttér Társaság *Az üldöztetéstől a büszkeségig* digitális kiállításán alapszik, és effektíve az ő cikküknek [[Kádár-korszak]](https://lmbtqitortenelem.hu/page/kadarkorszak) [[Rendszerváltás]](https://lmbtqitortenelem.hu/page/rendszervaltas) az összefoglalója. Nehezen végigkövethető, hogy nyelvhasználat szintjén miképp kezelték a homoszexualitást, ugyanis a Rákosi és a Kádár “államszocialista” rendszerekben egy aktívan tiltott és titkolt jelenség volt. A média nagyon ritkán vett tudomást ilyesféle viselkedés vagy identitás létezéséről, és bár technikailag a Kádár korszak nagy részében dekriminalizált volt a homoszexualitás, a meleg férfiak mégis megfigyelés alatt álltak, emellett besúgásra voltak kényszerítve.
+Könnyedén elérhető források híján ez a fejezet szinte kizárólag a Háttér Társaság *Az üldöztetéstől a büszkeségig* digitális kiállításán alapszik, és effektíve az ő cikküknek [\[Kádár-korszak]](https://lmbtqitortenelem.hu/page/kadarkorszak) [\[Rendszerváltás]](https://lmbtqitortenelem.hu/page/rendszervaltas) az összefoglalója. Nehezen végigkövethető, hogy nyelvhasználat szintjén miképp kezelték a homoszexualitást, ugyanis a Rákosi és a Kádár “államszocialista” rendszerekben egy aktívan tiltott és titkolt jelenség volt. A média nagyon ritkán vett tudomást ilyesféle viselkedés vagy identitás létezéséről, és bár technikailag a Kádár korszak nagy részében dekriminalizált volt a homoszexualitás, a meleg férfiak mégis megfigyelés alatt álltak, emellett besúgásra voltak kényszerítve.
 
 A transzneműség, az aszexualitás, de valamilyen szinten a biszexualitás is pedig lényegében nem létező koncepciók voltak még a büntetőtörvény és a titkos szolgálatok számára is.
 
@@ -42,7 +40,7 @@ Azon ritka esetekben, mikor queer személyek jelentek meg a médiában, olyankor
 
 Bár a kimazsolázott szenzációk hozzájárultak a queerellenes sztereotípiákhoz, szigorúan a nyelvhasználatot vizsgálva egy erősen heterogén képet kapunk. Volt, ahol teljesen semleges nyelvvel beszéltek a homoszexuálisokról, míg máshol rendellenességként, elhajlásként, perverzióként hivatkoztak vonzódásukra.
 
-Ezt a kevertséget legjobban a *Telefondoktor* c. műsor egyik 1982-es adása példázza, ahol egyszerre kezelik a melegséget gyerekkorban kialakuló veszélyes rendellenességként és elfogadható életmódként is. *„Leggyakrabban társadalmi kényszer nyomása alatt lesz valaki ily módon rendellenessé. \[...\] néhány idősebb társuktól megtanulják, ellesi ezt a sajátos, kórosnak tekinthető kielégülésmódot, és rászoknak, s ezt követően ők lesznek az újabb kapcsolatok kezdeményezői.”* Illetve “*Ha nem követ el törvénybe ütköző bűncselekményt, életmódját olyannak kell elfogadnunk, ahogyan ő azt magának kialakította. \[...\] a homoszexuális férfi illetve nő is társadalmilag igen hasznos munkát végezhet. És ezekben az esetekben megkülönböztetésnek nincs is helye.”*
+Ezt a kevertséget legjobban a *Telefondoktor* c. műsor egyik 1982-es adása példázza, ahol egyszerre kezelik a melegséget gyerekkorban kialakuló veszélyes rendellenességként és elfogadható életmódként is. *„Leggyakrabban társadalmi kényszer nyomása alatt lesz valaki ily módon rendellenessé. \[...] néhány idősebb társuktól megtanulják, ellesi ezt a sajátos, kórosnak tekinthető kielégülésmódot, és rászoknak, s ezt követően ők lesznek az újabb kapcsolatok kezdeményezői.”* Illetve “*Ha nem követ el törvénybe ütköző bűncselekményt, életmódját olyannak kell elfogadnunk, ahogyan ő azt magának kialakította. \[...] a homoszexuális férfi illetve nő is társadalmilag igen hasznos munkát végezhet. És ezekben az esetekben megkülönböztetésnek nincs is helye.”*
 
 Az 1980-as évekre, mikor a magyar „államszocializmus” láthatóan megindult lassú összeomlásába vezető úton, egyre kevésbé volt a melegség tabu téma. 1982-ben került bemutatásra az apró nemzetközi sikernek is örvendő *Egymásra nézve* c. film, egy 1958-ban játszódó, leszbikus párt végigkövető dráma. Nyíltan pozitív melegségábrázolása mellett erős kritikát is tartalmazott az akkor is aktuális rendszerrel szemben. Ebben az évtizedben alapult meg a Homeros Egyesület, az első magyar queer egyesület, 1989 után pedig mintha csak egy gát szakadt volna fel, alapultak meg a queer egyesületek, újságok, közösségek tömkelege.
 
@@ -50,15 +48,13 @@ A kilencvenes években szabaddá váló közbeszéd viszont a homofób vélemén
 
 Ennek ellenére a fősodratú médiában nem volt teljesen sötét minden. A 90-es években a magyar nyelvű televíziós műsorok történetében először megjelent egy de facto nyíltan meleg karakter a Szomszédok című sorozat egyik mellékszereplőjeként. Mai szemmel mindenképp különösnek tűnhet Oli urat, a sztereotíp meleg fodrászt úttörő karakterként leírni, főleg, hogy maga a Szomszédok rendezője is pusztán [gúnyolás céljából készítette őt melegnek](https://www.origo.hu/teve/20090729-szomszedok-oli-ur-mint-az-elso-magyar-meleg-karakter-horvath.html), de a tényen nem változtat, hogy az itthoni nagyközönség először láthatott egy homoszexuálisnak vélt karaktert, aki szórakoztató és szerethető volt. Bár ez nem jelentette a kezdetét egy forradalmi kulturális átalakulásnak, de jele volt egy lassú, pozitív tendenciának, ami egészen az elmúlt néhány éve kezdődő, felülről indított, mesterséges kulturális backlashig tartott.
 
-## **<span class="smallcaps">MÁSODIK FEJEZET</span>**
-
 ### **<span class="smallcaps">A melegek és leszbikusok helyzete</span>**
 
-A lassan egyre javuló közvélemény ellenére a kortárs fősodratú magyar médiában szinte nem létező témakör volt a melegség vagy a leszbikusság 2021-ig, 2021 után pedig de facto illegálissá vált, kivéve, ha nyíltan negatív a megjelenítés. Az egyetlen mainstream magyar film az elmúlt 14 évben, amiben található prominens meleg karakter, az a *Coming out*, ami minden esetleges írói jó szándék ellenére arról szól, hogy [*„egy meleg férfi rájön, nem is a fiúkat szereti, csak még nem találta meg a megfelelő lányt.”*](https://index.hu/kultur/2013/12/05/nem_faj_annyira_a_coming_out/) Ez egy biszexuálisok és aszexuálisok esetében gyakoribb, de melegeknél sem ritka sztereotípiát jelenít meg, miszerint egy adott személy (vagy akár mindenki) valójában heteroszexuális legbelül. Ehhez nők és más afab `(AFAB: Assigned female at birth: Születésekor nőként meghatározott)` személyek esetében gyakran járulnak hozzá megjegyzések, hogy “még csak nem b\*szta meg senki elég jól”, vagy egyéb hasonló megszólalások, melyek arra utalnak, hogy biztosan a rossz minőségű vagy nem létező szexuális életük miatt gondolják magukat annak, akik.
+A lassan egyre javuló közvélemény ellenére a kortárs fősodratú magyar médiában szinte nem létező témakör volt a melegség vagy a leszbikusság 2021-ig, 2021 után pedig de facto illegálissá vált, kivéve, ha nyíltan negatív a megjelenítés. Az egyetlen mainstream magyar film az elmúlt 14 évben, amiben található prominens meleg karakter, az a *Coming out*, ami minden esetleges írói jó szándék ellenére arról szól, hogy *[„egy meleg férfi rájön, nem is a fiúkat szereti, csak még nem találta meg a megfelelő lányt.”](https://index.hu/kultur/2013/12/05/nem_faj_annyira_a_coming_out/)* Ez egy biszexuálisok és aszexuálisok esetében gyakoribb, de melegeknél sem ritka sztereotípiát jelenít meg, miszerint egy adott személy (vagy akár mindenki) valójában heteroszexuális legbelül. Ehhez nők és más afab `(AFAB: Assigned female at birth: Születésekor nőként meghatározott)` személyek esetében gyakran járulnak hozzá megjegyzések, hogy “még csak nem b*szta meg senki elég jól”, vagy egyéb hasonló megszólalások, melyek arra utalnak, hogy biztosan a rossz minőségű vagy nem létező szexuális életük miatt gondolják magukat annak, akik.
 
 Magyar nyelvű mainstream tartalmak híján a fiatalok szinte kizárólag külföldi anyagokból vagy magyar queer-ellenes propagandából hallanak meleg emberekről. Ez ahhoz vezet, hogy köztük normalizáltabbak a homofób megjegyzések, és kevesebb az empátia a nyíltan meleg vagy leszbikus személyek iránt, mint például a középkorúak közt. Meglepő fordulat annak tekintetében, hogy míg az idősebb generációk, akik kisebb arányban beszélnek második nyelvet, szinte kizárólag melegellenes propagandával képesek találkozni a KESMA birodalom televíziós, rádiós és online gyarmatain keresztül, addig a fiatalabbak könnyen hozzáférnek külföldi, melegbarát tartalmakhoz is. Ennek két potenciális magyarázata lehet.
 
-Az első, hogy az idősebb generációk kevésbé fogékonyak az gyűlöletkapmpányokra. A 2019-es [*Awareness of Anti-LGBT Hate Crime in the European Union*](https://hatter.hu/sites/default/files/dokumentum/kiadvany/2019-awareness-of-anti-lgbt-hate-crime-in-the-european-union.pdf) c. tanulmány elsősorban ezt a magyarázatot választja.
+Az első, hogy az idősebb generációk kevésbé fogékonyak az gyűlöletkapmpányokra. A 2019-es *[Awareness of Anti-LGBT Hate Crime in the European Union](https://hatter.hu/sites/default/files/dokumentum/kiadvany/2019-awareness-of-anti-lgbt-hate-crime-in-the-european-union.pdf)* c. tanulmány elsősorban ezt a magyarázatot választja.
 
 Egy második lehetőség viszont, hogy a social media oldalak buborékképző ajánló algoritmusainak hála a fiatalság egyre polarizáltabb, ami statisztikai általánosságban jelenleg a nem elfogadó felé húz. Az online angol nyelvű szférában a melegek témájában, és általában véve a társadalmi kérdésekben hullámzások figyelhetőek meg, valószínűleg az USA-beli politikai közvélemény mintáját tágan követve. Körülbelül 2014-ben egy masszív ultrakonzervatív mozgalom indult meg, mely útjára indította az alt-rightot, viszont 2018 körül egyre nagyobb teret nyert a hozzájuk kapcsolható vélemények és online személyiségek ellenzése, emellett a társadalmi progresszív meglátások láthatósága. 2020-2022 körül pedig egy újabb konzervatív hullám indult útjára. (És minden bizonnyal a 2000-es, 90-es és az internet előtti évtizedekben is megfigyelhető hasonló kulturális hullámzás).
 
@@ -84,7 +80,7 @@ Emellett fontos azt is észrevenni, hogy a tény nem változik, hogy főműsorid
 
 A dolgozatért egy LMBTQ témájú Discord közösségi szerverben feltettem egy egyszerű kérdést. *„Van olyan személyes élményetek, amiben családtag, barát, osztálytárs, munkatárs stb. olyan queerellenes retorikát mondott, amit szinte biztos a tévéből vagy online konzervatív újságokból megtanulva mondott vissza?”*
 
-*„Hát most, ami elsőre eszembe jutott, még kb. 3 éve talán, amikor Pécsen dolgoztam, az egyik kollégám dispécser volt, és ugye a kis szobájában ült a sok monitorral és egy TV, amin egész nap talán az M1 vagy M2-t nézte, és hát csőfideszes* \[sic\] *volt. És egyik nap hallom, hogy épp talán a TV beszélt róla, de azt pont nem hallottam, csak hogy beszél egy másik kollégával a pécsi Pride-ról, és percekig azt taglalta, hogy **ezeket a mocskos buzikat meg kéne kövezni**.”* (Cs. A.) (29 éves transznemű nő)
+*„Hát most, ami elsőre eszembe jutott, még kb. 3 éve talán, amikor Pécsen dolgoztam, az egyik kollégám dispécser volt, és ugye a kis szobájában ült a sok monitorral és egy TV, amin egész nap talán az M1 vagy M2-t nézte, és hát csőfideszes* \[sic] *volt. És egyik nap hallom, hogy épp talán a TV beszélt róla, de azt pont nem hallottam, csak hogy beszél egy másik kollégával a pécsi Pride-ról, és percekig azt taglalta, hogy **ezeket a mocskos buzikat meg kéne kövezni**.”* (Cs. A.) (29 éves transznemű nő)
 
 Ez volt a legelső válasz, amit kaptam.
 
@@ -94,12 +90,9 @@ Ezután pedig ilyen válaszok érkeztek:
 
 *„Visszahallani konkrétan nem, de apám egyszer berakott valami faskót, aki arról beszélt, hogy ő nem szereti a hetroszexuális szót, mert ő azt akarja hogy „normálisnak" hívják. Úgy, hogy ott voltam a konyhában. És már tudta, hogy meleg vagyok.”* (B.) (Kora huszonéves meleg férfi)
 
-*„Válassz egyet bármelyikből, apámtól már biztos hallottam. Gondolom, hozzátesz valamit, hogy éjjel-nappal Mandiner, Pesti Srácok vagy valami hasonlót hallgat. \[...\] Egy konkrét példa, ami eszembe jutott: Lehülyézte az egész EU-t, jobb lenne, ha szétesne, és halálba kívánta a brüsszeli képviselőket, mert akkor nem lesz, ki terjessze az agyhalott b\*zi lobbyt.”* (P.) (Harmincas éveiben lévő transznemű nő)
+*„Válassz egyet bármelyikből, apámtól már biztos hallottam. Gondolom, hozzátesz valamit, hogy éjjel-nappal Mandiner, Pesti Srácok vagy valami hasonlót hallgat. \[...] Egy konkrét példa, ami eszembe jutott: Lehülyézte az egész EU-t, jobb lenne, ha szétesne, és halálba kívánta a brüsszeli képviselőket, mert akkor nem lesz, ki terjessze az agyhalott b*zi lobbyt.”* (P.) (Harmincas éveiben lévő transznemű nő)
 
 Egy másik mítosz a politikailag moderáltak közt, hogy a szélsőségek csak megszülik a másik szélsőséget, így az extrém homofóbia visszafelé fog elsütni. Egy féligazság van az elképzelésben, de vajmi keveset számít a Medián vagy a Társadalomkutató Kft. enyhén felfelé menő vonalai, ha már vér fog folyni. Muszájnak tartom újra kihangsúlyozni: a fasisztáknak nem érdeke a demokrácia szabályai szerint játszani. Nem szükséges hatalomra törésükhöz egy többség kialakítása, megfelel egy elégségesen erőszakos kisebbség is.
-
-  
-## **<span class="smallcaps">HARMADIK FEJEZET</span>**
 
 ### **<span class="smallcaps">A biszexuálisok és aszexuálisok helyzete</span>**
 
@@ -129,7 +122,7 @@ A véleményeket alapvetően két kategóriába lehet sorolni: a felvonulók st�
 
 Bár fontos megjegyezni, hogy a kettő kéz a kézben jár. Gyakori technika a magukat udvariasnak, moderáltnak tartó előítéletes emberektől, hogy a kisebbségek jogaiért való tüntetésének *módját* kritizálják, nem pedig magát a jogok fontosságát, viszont valahogy sosincs számukra olyan módja a jogokért való kiállásnak, ami elégségesen tiszteletteljes.
 
-*„Hogy őszinte legyek, eddig még soha nem vettem részt olyan nyílt megmozdulásban, ami „jól időzített” lett volna azoknak az időbeosztása szerint, akik nem szenvednek indokolatlanul a szegregáció kórjától. \[...\] Majdnem arra a sajnálatos következtetésre jutottam, hogy a négerek szabadság felé menetelésében nem a Fehér Polgárok Tanácsa jelenti a legnagyobb akadályt, még csak nem is a Ku Klux Klan-tagok, hanem a **mérsékelt fehérek,** akik elszántabban védelmezik a „rendet”, mint a jogosságot; \[...\] „Egyetértek veletek az elérendő célotokban, de nem érthetek egyet módszeretekkel, a nyílt megmozdulással””* - Dr. Martin Luther King Jr., [Levél a Birminghami Városi Börtönből](https://www.academia.edu/11317266/Martin_Luther_King_Levél_a_Birminghami_Városi_Börtönből).
+*„Hogy őszinte legyek, eddig még soha nem vettem részt olyan nyílt megmozdulásban, ami „jól időzített” lett volna azoknak az időbeosztása szerint, akik nem szenvednek indokolatlanul a szegregáció kórjától. \[...] Majdnem arra a sajnálatos következtetésre jutottam, hogy a négerek szabadság felé menetelésében nem a Fehér Polgárok Tanácsa jelenti a legnagyobb akadályt, még csak nem is a Ku Klux Klan-tagok, hanem a **mérsékelt fehérek,** akik elszántabban védelmezik a „rendet”, mint a jogosságot; \[...] „Egyetértek veletek az elérendő célotokban, de nem érthetek egyet módszeretekkel, a nyílt megmozdulással””* - Dr. Martin Luther King Jr., [Levél a Birminghami Városi Börtönből](https://www.academia.edu/11317266/Martin_Luther_King_Levél_a_Birminghami_Városi_Börtönből).
 
 Külön érdekes megfigyelni a Telex videó top kommentjét, ami azzal zár, hogy *„Nem tűnnek egészségesnek.”* Ugyanis a medikai félrekezelés az egyik [legszignifikánsabb megjelenése az afóbiának](https://link.springer.com/article/10.1007/s10508-020-01670-6). Az orvosok között sem ritka, hogy az aszexualitást nem tartják valódi jelenségnek, vagy hogy a szexuális vonzalom hiányát valamilyen rendellenességnek tulajdonítják.
 
@@ -137,12 +130,9 @@ Pozitív ellenpélda a magyar médiában a majdnem 300 000 feliratkozóval rende
 
 A fejezet zárása előtt megjegyzendő, hogy bár a biszexuálisok másfajta előítéletességekkel is szembenéznek, mint a homoszexuálisok, de a velük egynemű emberekhez való vonzódás lehetősége miatt a homofóbia egy őket is érintő jelenség, így a halk eltörlés ellenére biszexuálisok is áldozatai ugyanazoknak a támadásoknak, amiknek a melegek és leszbikusok is.
 
-  
-## **NEGYEDIK <span class="smallcaps">FEJEZET</span>**
-
 ### **<span class="smallcaps">A transzneműek és nembinárisok helyzete</span>**
 
-Kétségkívül kijelenthető, hogy jelenleg Magyarországon a transzneműek a legtöbb ellenszenvet szenvedő csoport a queer közösségben. A legkülönösebb jelenség, hogy a magukat baloldalinak nevező média platformok jó része is ugyanazokat az előítéleket és összeesküvés-elméleteket mondják vissza, mint amit a magyar állami TV. A Partizán nevű YouTube-os médiaóriás például egy az egyben az ún. „gender kritikus” feminizmust képviseli. Gulyás Márton, a csatorna főműsorvezetője például [nem ismeri el a transznemű nők nemi identitását](https://www.youtube.com/watch?v=OUr2Lw2vJvY), a cisznemű nők jogainak védelmére hivatkozva. Balogh Zsófia, a Partizán rezidens feministája pedig évek óta dolgozik a brit LGB és TERF mozgalmak honosításán [[1]](https://open.spotify.com/episode/56ZDkpgkmp5HQxZu90l2Bt?si=caa1c6f838f74e5d&nd=1&dlsi=6a936103874e4e47) [[2]](https://www.youtube.com/watch?v=8-TBwhj9il8) [[3]](https://www.youtube.com/watch?v=Ld-w5yHqJfQ).
+Kétségkívül kijelenthető, hogy jelenleg Magyarországon a transzneműek a legtöbb ellenszenvet szenvedő csoport a queer közösségben. A legkülönösebb jelenség, hogy a magukat baloldalinak nevező média platformok jó része is ugyanazokat az előítéleket és összeesküvés-elméleteket mondják vissza, mint amit a magyar állami TV. A Partizán nevű YouTube-os médiaóriás például egy az egyben az ún. „gender kritikus” feminizmust képviseli. Gulyás Márton, a csatorna főműsorvezetője például [nem ismeri el a transznemű nők nemi identitását](https://www.youtube.com/watch?v=OUr2Lw2vJvY), a cisznemű nők jogainak védelmére hivatkozva. Balogh Zsófia, a Partizán rezidens feministája pedig évek óta dolgozik a brit LGB és TERF mozgalmak honosításán [\[1]](https://open.spotify.com/episode/56ZDkpgkmp5HQxZu90l2Bt?si=caa1c6f838f74e5d&nd=1&dlsi=6a936103874e4e47) [\[2]](https://www.youtube.com/watch?v=8-TBwhj9il8) [\[3]](https://www.youtube.com/watch?v=Ld-w5yHqJfQ).
 
 A nyíltan baloldali Mérce is többször hangot adott Kováts Eszternek, aki szintúgy [transz-exkluzív és szex-negatív feminista](https://merce.hu/2020/09/02/excelszemleletu-baloldal-mi-az-az-interszekcionalitas-es-mi-a-baj-vele/). Míg Kováts Eszter megtartja az intellektuális feminista képét, és óvatosan fogalmaz, addig Balogh Zsófi nem tántorodik el attól, hogy alaptalan összeesküvés-elméleteket terjesszen, mint például hogy a transzneműség elfogadása egyfajta konverziós terápia, hogy a homoszexuálisokat, de elsősorban a leszbikus lányokat heteróvá tegyék. Ez ignorálja a tényt, hogy a transz közösség a legelfogadóbb a többi queer identitással szemben, és hogy a transzneműek között [sokkal nagyobb a biszexuálisok (és egyéb nem-monoszexuálisok) aránya](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16654-z#citeas), mint a cisznemű népességben, illetve, hogy semmilyen érdemi bizonyíték nem létezik fiatalok tranzícióját erőltető érdekcsoportokra.
 
@@ -152,7 +142,7 @@ Emellett egy olyan elmélet fókusza kislányokra (vagy pontosabban lányoknak v
 
 *„Amikor előbújtam édesanyámnak, azt mondta, hogy szerinte nem vagyok transz, mert ez most egy ilyen trend a tinédzserek között, ugyanúgy, mint ahogy az emo volt 20 évvel ezelőtt. És tudom, hogy néz Joe Rogan podcastet, szóval van egy tippem, ezt honnan szedte.”* (R.) (19 éves transznemű fiú) - válaszolta az egyik személy a közösségi szerveren feltett kérdésemre.
 
-*„…Ja, igen, a háziorvos meg konverziós terápiát akart velem csináltatni, mert szerinte csak az a bajom, hogy nem találom magam, meg össze vagyok zavarodva. Ugyanezeket egy volt kolléga is mondta nekem. \[...\] Anyám barátja meg azzal indította ezt a beszélgetést, hogy őt csak azok zavarják, akik divatból csinálják, ez is gyakori propaganda”.* (P. A.) (30 éves transznemű férfi)
+*„…Ja, igen, a háziorvos meg konverziós terápiát akart velem csináltatni, mert szerinte csak az a bajom, hogy nem találom magam, meg össze vagyok zavarodva. Ugyanezeket egy volt kolléga is mondta nekem. \[...] Anyám barátja meg azzal indította ezt a beszélgetést, hogy őt csak azok zavarják, akik divatból csinálják, ez is gyakori propaganda”.* (P. A.) (30 éves transznemű férfi)
 
 Anélkül, hogy specifikusan a transz férfiak infantilizálására kérdeztem volna, így is több választ kaptam, hogy ez volt az élményük, ami arra enged következtetni, hogy a fent írt elmélet terjesztése különösen hatékonyan történik, és potenciálisan a transz férfiak többségét károsan érinti.
 
@@ -162,13 +152,13 @@ Ha már visszatértünk magára Balogh Zsófira, kiemelendő az ő, és az álta
 
 A queer közösségben messze a transzneműek állnak szembe a legtöbb dehumanizálással. Olyan kifejezések, mint hogy „gender lobbi” vagy „gender ideológia” vagy „transz ideológia” azon kívül, hogy megalapozatlan összeesküvés-elméletekre utalnak, azt a célt szolgálják, hogy a közönségnek a transzneműek emberi jogaival kapcsolatos kérdést két ideológia közti konfliktusnak írja le, nem pedig egy konzervatív ideológia és egy élő, lélegző embercsoport köztinek. A transzneműek puszta létezését politizálja; arra játszik rá, hogy eszébe se jusson az egyszeri embernek, hogy konkrét személyekről van szó, vagy ha eszébe is jut, azt gondolja, hogy nem a biztonságukért, hanem saját politikai céljaikért küzdenek.
 
-Az állami, és általában az államot támogató hírfelületek szélesebb hálót vetnek, mint a „gender kritikusok”. Ők gender lobbizás helyett jobban preferálják az „LMBT-lobbi” kifejezést. A HírTV például azt, hogy queer karakterek léteznek műsorokban, azzal a címmel hozta le, hogy: [*„Tarol az LMBTQ-lobbi a streamingfelületeken”*](https://hirtv.hu/hirtvszines/tarol-az-lmbtq-lobbi-a-streamingfeluleteken-video-2578999). A cikk egyébként egy az egyben a Magyar Nemzet cikkének másolata. A kormánypárti médiában általában véve is jellemző, hogy [betűre pontosan ugyanazt a (sokszor hamis vagy féligaz) történetet adják le több tucatnyi felületen](https://alfahir.hu/hirek/megyei_lapok_kesma_hiba_sbfgjgkhgfdesss_fidesz_media_propaganda). Változó, hogy ezzel kapcsolatban mennyire őszinték az oldalak.
+Az állami, és általában az államot támogató hírfelületek szélesebb hálót vetnek, mint a „gender kritikusok”. Ők gender lobbizás helyett jobban preferálják az „LMBT-lobbi” kifejezést. A HírTV például azt, hogy queer karakterek léteznek műsorokban, azzal a címmel hozta le, hogy: *[„Tarol az LMBTQ-lobbi a streamingfelületeken”](https://hirtv.hu/hirtvszines/tarol-az-lmbtq-lobbi-a-streamingfeluleteken-video-2578999)*. A cikk egyébként egy az egyben a Magyar Nemzet cikkének másolata. A kormánypárti médiában általában véve is jellemző, hogy [betűre pontosan ugyanazt a (sokszor hamis vagy féligaz) történetet adják le több tucatnyi felületen](https://alfahir.hu/hirek/megyei_lapok_kesma_hiba_sbfgjgkhgfdesss_fidesz_media_propaganda). Változó, hogy ezzel kapcsolatban mennyire őszinték az oldalak.
 
-A félelemkeltés a gyerekekre tett hatásokkal kapcsolatban visszatérő elem. Egy egyszerű gyerekkönyvet is olykor úgy írnak le, mint ha [valami alattomos összeesküvés produktuma lenne](https://www.origo.hu/nagyvilag/20210805-a-klasszikus-tundermeseken-keresztul-erezekenyitene-a-gyerekeket-az-lmbtq-lobbi.html)). Szélsőséges oldalak pedig egyenesen a pedofíliával kapcsolják össze a queerséget. Visszatérő kifejezés náluk az „LMBTQP” [[Kurucinfó]](https://kuruc.info/t/66/) [[Szent Korona Rádió]](https://szentkoronaradio.com/blog/2021/03/02/mikent-teszi-tonkre-egy-generacio-eletet-az-lmbtqp-es-foleg-a-transz-lobbi/ ), ahol a P a pdeofíliát jelenti. Az, hogy szó szerint egy LMBT szervezet nincs az országban, ami használja ezt a kifejezést, nem fontos. A fasiszták számára a valóság nem az anyagi világ terméke, hanem egy folyékony esszencia, amit saját céljaikra formálnak.
+A félelemkeltés a gyerekekre tett hatásokkal kapcsolatban visszatérő elem. Egy egyszerű gyerekkönyvet is olykor úgy írnak le, mint ha [valami alattomos összeesküvés produktuma lenne](https://www.origo.hu/nagyvilag/20210805-a-klasszikus-tundermeseken-keresztul-erezekenyitene-a-gyerekeket-az-lmbtq-lobbi.html)). Szélsőséges oldalak pedig egyenesen a pedofíliával kapcsolják össze a queerséget. Visszatérő kifejezés náluk az „LMBTQP” [\[Kurucinfó]](https://kuruc.info/t/66/) [\[Szent Korona Rádió]](https://szentkoronaradio.com/blog/2021/03/02/mikent-teszi-tonkre-egy-generacio-eletet-az-lmbtqp-es-foleg-a-transz-lobbi/), ahol a P a pdeofíliát jelenti. Az, hogy szó szerint egy LMBT szervezet nincs az országban, ami használja ezt a kifejezést, nem fontos. A fasiszták számára a valóság nem az anyagi világ terméke, hanem egy folyékony esszencia, amit saját céljaikra formálnak.
 
 Nem könnyű demonstrálni, hogy a transzneműekre vonatkozó dezinformáció mekkora méreteket öltött.
 
-*„Pszichiátrián legtöbb hétköznap beszéltem pszichiáteremmel meg pszichológusommal, és sokat említettem meg gender diszfóriámat, mert sokat érintett, ebből a zárójelentésbe annyi került bele, hogy “nemi identitás zavara van”. Mivel minor* \[sic\] *vagyok, ezért a zárójelentésemet szüleimmel átbeszélte pszichiáterem, és megkértem, hogy coming outoljon helyettem, aztán később kiderült, hogy ez arra hivatkozva volt megtéve, mert Kenneth Zucker írt egy tanulmányt, hogy amúgy mindenki megbánja (az a study, ahol az emberek 45%-a nem írt vissza, ezért csak automatikusan detransitionoltnek számították be). Aztán anyám még mindig úgy hivatkozik erre, mint szakértői vélemény.*
+*„Pszichiátrián legtöbb hétköznap beszéltem pszichiáteremmel meg pszichológusommal, és sokat említettem meg gender diszfóriámat, mert sokat érintett, ebből a zárójelentésbe annyi került bele, hogy “nemi identitás zavara van”. Mivel minor* \[sic] *vagyok, ezért a zárójelentésemet szüleimmel átbeszélte pszichiáterem, és megkértem, hogy coming outoljon helyettem, aztán később kiderült, hogy ez arra hivatkozva volt megtéve, mert Kenneth Zucker írt egy tanulmányt, hogy amúgy mindenki megbánja (az a study, ahol az emberek 45%-a nem írt vissza, ezért csak automatikusan detransitionoltnek számították be). Aztán anyám még mindig úgy hivatkozik erre, mint szakértői vélemény.*
 
 *(Additional detail, de amúgy úgy volt pszichiáterem, hogy pszichiátriai vizsgáját mai napig nem tette le.)”* (B. B.) (16 éves transznemű lány)
 
@@ -184,9 +174,9 @@ Kivéve, hogy nem létezik semmilyen elsődleges forrás, ami szerint valaha ál
 
 Épp a banalitása az, ami a propagandisztikus technikákat olyan hatékonnyá teszi. Könnyű elhinni, hogy elég felszerelkezni az igazsággal, de [önmagában az sem elég](https://www.apa.org/pubs/journals/features/xge-0000098.pdf). És ha már létezik egy eleve kiépített propagandagépezet, aminek részei folyton egymásra körbeutalnak, ezzel keltve a megbízható források tömkelegének illúzióját, akkor kifejezetten nehéz a gép által érdekelt témában megkezdeni a rendes tájékozódást egy olyan személynek, aki a kezdetekben nem rendelkezik semmilyen információval.
 
-Hiába „derül ki” mindig utólag, hogy a történetek elferdítések, vagy nem igazak, vagy ha igazak, akkor nem is történt kár, és kizárólag a tájékozatlan emberek zsigeri reakcióira hagyatkoznak; ha eleget látja, hallja és olvassa, hogy a transzneműek veszélyesek a gyerekekre [[Metropol]](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket) [[888]](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket) [[Hetek]](https://www.hetek.hu/cikkek/hatter/2021julius/a-transzideologia-ara-hormonkezelt-gyerekek-nemvalto-tinik), akkor az eleinte elfogadó embernek is képes bogarat ültetni a fejébe a gondolat.
+Hiába „derül ki” mindig utólag, hogy a történetek elferdítések, vagy nem igazak, vagy ha igazak, akkor nem is történt kár, és kizárólag a tájékozatlan emberek zsigeri reakcióira hagyatkoznak; ha eleget látja, hallja és olvassa, hogy a transzneműek veszélyesek a gyerekekre [\[Metropol]](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket) [\[888]](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket) [\[Hetek]](https://www.hetek.hu/cikkek/hatter/2021julius/a-transzideologia-ara-hormonkezelt-gyerekek-nemvalto-tinik), akkor az eleinte elfogadó embernek is képes bogarat ültetni a fejébe a gondolat.
 
-*„Nemcsak a nemváltó tinédzserek, hanem az ilyen beavatkozáson átesett felnőttek esetében is előfordul, hogy utólag megbánják azt. Róluk kevesebbet hallunk, és a történeteiket gyakran „marginálisnak” bélyegzik még szakemberek is, vagy kétségbe vonják azok hitelességét. Igen gyakori narratíva, hogy az eseteiket bemutató cikkeket, riportokat pánikkeltőnek bélyegzik, amelyek tudatosan a „transzneműekkel kapcsolatos tévhiteket táplálják”.”* Írja a Hetek *A transzideológia ára* c. cikke, miután két oldalon keresztül pánikot keltettek a tranzícióról, és tévhiteket tápláltak, például a tranzíció megbánásának magas rátáját, melyekre megbízható forrásokból csak ellenpéldákat találtam [[1]](https://pubmed.ncbi.nlm.nih.gov/35452119/) [[2]](https://cdn.discordapp.com/attachments/742557921849901077/983121712453386270/davies2019.pdf#page=139). A legmegbízhatóbbnak tűnő tanulmány, amit találtam, és az alacsony detranzíciós rátának ellentmond, a [*The Detransition Rate is Unknown*](https://link.springer.com/article/10.1007/s10508-023-02623-5) is csak kritikákat fogalmaz meg az alacsony tranzíciós rátát mutató tanulmányokkal szemben, és a *Society for Evidence-Based Gender Medicine* egyik tudósa készítette. A SEGM pedig egy, a nemzetközi orvosi közösség által [el nem ismert](https://link.springer.com/article/10.1007/s10508-023-02623-5) pszeudotudományos non-profit.
+*„Nemcsak a nemváltó tinédzserek, hanem az ilyen beavatkozáson átesett felnőttek esetében is előfordul, hogy utólag megbánják azt. Róluk kevesebbet hallunk, és a történeteiket gyakran „marginálisnak” bélyegzik még szakemberek is, vagy kétségbe vonják azok hitelességét. Igen gyakori narratíva, hogy az eseteiket bemutató cikkeket, riportokat pánikkeltőnek bélyegzik, amelyek tudatosan a „transzneműekkel kapcsolatos tévhiteket táplálják”.”* Írja a Hetek *A transzideológia ára* c. cikke, miután két oldalon keresztül pánikot keltettek a tranzícióról, és tévhiteket tápláltak, például a tranzíció megbánásának magas rátáját, melyekre megbízható forrásokból csak ellenpéldákat találtam [\[1]](https://pubmed.ncbi.nlm.nih.gov/35452119/) [\[2]](https://cdn.discordapp.com/attachments/742557921849901077/983121712453386270/davies2019.pdf#page=139). A legmegbízhatóbbnak tűnő tanulmány, amit találtam, és az alacsony detranzíciós rátának ellentmond, a *[The Detransition Rate is Unknown](https://link.springer.com/article/10.1007/s10508-023-02623-5)* is csak kritikákat fogalmaz meg az alacsony tranzíciós rátát mutató tanulmányokkal szemben, és a *Society for Evidence-Based Gender Medicine* egyik tudósa készítette. A SEGM pedig egy, a nemzetközi orvosi közösség által [el nem ismert](https://link.springer.com/article/10.1007/s10508-023-02623-5) pszeudotudományos non-profit.
 
 Ezeket a szálakat kibogozni, ha az olvasó nem beszél angolul, és így sokkal nehezebben fér hozzá a nemzetközi orvosi közösség valódi véleményéhez, szinte lehetetlen. A fent említett tanulmány is referenciák tömegét soroltatja fel, ezzel keltve a megbízható tudományos szöveg látszatát. Emellett az átlag olvasó nem is fog órákat eltölteni minden egyes állítás validitásának ellenőrzésével, legtöbben megelégszenek, ha az állításon van egy hyperlink, ami egy másik szöveghez elvezet.
 
@@ -214,82 +204,82 @@ A gyűlöletbűncselekmények száma nehezen követhető, ugyanis a rendőrség 
 
 ## **<span class="smallcaps">FORRÁSJEGYZÉK</span>**
 
-[1] [<u>Háttér Társaság, (2022) Már szivárvány-jel sem lehet az oviban - egy éves a propagandatörvény</u>](https://hatter.hu/hirek/mar-szivarvany-jel-sem-lehet-az-oviban-egy-eves-a-propagandatorveny)
+\[1] [<u>Háttér Társaság, (2022) Már szivárvány-jel sem lehet az oviban - egy éves a propagandatörvény</u>](https://hatter.hu/hirek/mar-szivarvany-jel-sem-lehet-az-oviban-egy-eves-a-propagandatorveny)
 
-[2] [<u>Stephen M. Utych, (2018) How Dehumanization Influences Attitudes toward Immigrants</u>](https://www.jstor.org/stable/26600483?searchText=dehumanizing%20language&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddehumanizing%2Blanguage&ab_segments=0%2FSYC-7052%2Ftest&refreqid=fastly-default%3A650006be1654c781de9c4124c127f99d)
+\[2] [<u>Stephen M. Utych, (2018) How Dehumanization Influences Attitudes toward Immigrants</u>](https://www.jstor.org/stable/26600483?searchText=dehumanizing%20language&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddehumanizing%2Blanguage&ab_segments=0%2FSYC-7052%2Ftest&refreqid=fastly-default%3A650006be1654c781de9c4124c127f99d)
 
-[3] [<u>Felluga Dino, (2002) “Modules on Marx: On Ideology”. Introductory Guide to Critical Theory</u>](https://cla.purdue.edu/academic/english/theory/marxism/modules/marxideology.html)
+\[3] [<u>Felluga Dino, (2002) “Modules on Marx: On Ideology”. Introductory Guide to Critical Theory</u>](https://cla.purdue.edu/academic/english/theory/marxism/modules/marxideology.html)
 
-[4] [<u>npr, 2011, 'Less Than Human': The Psychology Of Cruelty</u>](https://www.npr.org/2011/03/29/134956180/criminals-see-their-victims-as-less-than-human)
+\[4] [<u>npr, 2011, 'Less Than Human': The Psychology Of Cruelty</u>](https://www.npr.org/2011/03/29/134956180/criminals-see-their-victims-as-less-than-human)
 
-[5] [<u>Háttér Társaság, (2022) Az üldöztetéstől a büszkeségig: A Kádár-korszak ellentmondásos világa</u>](https://lmbtqitortenelem.hu/page/kadarkorszak)
+\[5] [<u>Háttér Társaság, (2022) Az üldöztetéstől a büszkeségig: A Kádár-korszak ellentmondásos világa</u>](https://lmbtqitortenelem.hu/page/kadarkorszak)
 
 <sup>5</sup> [<u>Háttér Társaság, (2022) Az üldöztetéstől a büszkeségig: Az LMBTQI-közösség életének alakulása a rendszerváltás után</u>](https://lmbtqitortenelem.hu/page/rendszervaltas)
 
-[6] [<u>Apats Gábor & Kalmár Csaba, (2009) A Szomszédok utat tört a melegeknek</u>](https://www.origo.hu/teve/20090729-szomszedok-oli-ur-mint-az-elso-magyar-meleg-karakter-horvath.html)
+\[6] [<u>Apats Gábor & Kalmár Csaba, (2009) A Szomszédok utat tört a melegeknek</u>](https://www.origo.hu/teve/20090729-szomszedok-oli-ur-mint-az-elso-magyar-meleg-karakter-horvath.html)
 
-[7] [<u>Index, (2013) Nem a buzizás miatt fáj a Coming out</u>](https://index.hu/kultur/2013/12/05/nem_faj_annyira_a_coming_out/)
+\[7] [<u>Index, (2013) Nem a buzizás miatt fáj a Coming out</u>](https://index.hu/kultur/2013/12/05/nem_faj_annyira_a_coming_out/)
 
-[8] AFAB: Assigned female at birth: Születésekor nőként meghatározott
+\[8] AFAB: Assigned female at birth: Születésekor nőként meghatározott
 
-[9] [<u>Piotr Godzisz & Giacomo Viggiani, (2019) Awareness of Anti-LGBT Hate Crime in the European Union, 94-122. oldal</u>](https://hatter.hu/sites/default/files/dokumentum/kiadvany/2019-awareness-of-anti-lgbt-hate-crime-in-the-european-union.pdf)
+\[9] [<u>Piotr Godzisz & Giacomo Viggiani, (2019) Awareness of Anti-LGBT Hate Crime in the European Union, 94-122. oldal</u>](https://hatter.hu/sites/default/files/dokumentum/kiadvany/2019-awareness-of-anti-lgbt-hate-crime-in-the-european-union.pdf)
 
-[10] [<u>hvg, (2023) Vizsgálat indult Bencsik András melegek kivégzését üdvözlő kijelentése miatt</u>](https://hvg.hu/elet/20230328_Vizsgalat_indult_Bencsik_Andras_melegek_kivegzeset_udvozlo_kijelentese_miatt)
+\[10] [<u>hvg, (2023) Vizsgálat indult Bencsik András melegek kivégzését üdvözlő kijelentése miatt</u>](https://hvg.hu/elet/20230328_Vizsgalat_indult_Bencsik_Andras_melegek_kivegzeset_udvozlo_kijelentese_miatt)
 
-[11] [<u>Yin Xu & Yidan Ma & Qazy Raman, (2023) Comparing asexual with heterosexual, bisexual, and gay/lesbian individuals in common mental health problems: A multivariate meta-analysis</u>](https://www.sciencedirect.com/science/article/abs/pii/S0272735823000922)
+\[11] [<u>Yin Xu & Yidan Ma & Qazy Raman, (2023) Comparing asexual with heterosexual, bisexual, and gay/lesbian individuals in common mental health problems: A multivariate meta-analysis</u>](https://www.sciencedirect.com/science/article/abs/pii/S0272735823000922)
 
-[12] Amatonormativitás: A romantikus szerelem és kapcsolat elsőbbségének normalitása minden más emberi kapcsolódással szemben
+\[12] Amatonormativitás: A romantikus szerelem és kapcsolat elsőbbségének normalitása minden más emberi kapcsolódással szemben
 
-[13] [<u>Telex, (2023) Odajönnek hozzám azzal, hogy jaj, te szegény, téged még senki sem dugott meg</u>](https://www.youtube.com/watch?v=zAMeeul4YZs)
+\[13] [<u>Telex, (2023) Odajönnek hozzám azzal, hogy jaj, te szegény, téged még senki sem dugott meg</u>](https://www.youtube.com/watch?v=zAMeeul4YZs)
 
-[14] [<u>The Raven Croaks, (2023) Egyesüljünk Az "A" Betű Zászlója Alatt | Telex Videó Reakció</u>](https://www.youtube.com/watch?v=ztFjh-KFnqQ)
+\[14] [<u>The Raven Croaks, (2023) Egyesüljünk Az "A" Betű Zászlója Alatt | Telex Videó Reakció</u>](https://www.youtube.com/watch?v=ztFjh-KFnqQ)
 
-[15] [<u>Dr. Martin Luther King Jr., (1963) Levél a Birminghami Városi Börtönből</u>](https://www.academia.edu/11317266/Martin_Luther_King_Lev%C3%A9l_a_Birminghami_V%C3%A1rosi_B%C3%B6rt%C3%B6nb%C5%91l)
+\[15] [<u>Dr. Martin Luther King Jr., (1963) Levél a Birminghami Városi Börtönből</u>](https://www.academia.edu/11317266/Martin_Luther_King_Lev%C3%A9l_a_Birminghami_V%C3%A1rosi_B%C3%B6rt%C3%B6nb%C5%91l)
 
-[16] [<u>Shelby K. Flanagan & Heather J. Peters, (2020) Asexual-Identified Adults: Interactions with Health-Care Practitioners</u>](https://link.springer.com/article/10.1007/s10508-020-01670-6)
+\[16] [<u>Shelby K. Flanagan & Heather J. Peters, (2020) Asexual-Identified Adults: Interactions with Health-Care Practitioners</u>](https://link.springer.com/article/10.1007/s10508-020-01670-6)
 
-[17] [<u>Tanulom Magam, (2019) Homoszexuális, Aszexuális, Pánszexuális - mi mit jelent?</u>](https://www.youtube.com/watch?v=zXZxI-Eb584)
+\[17] [<u>Tanulom Magam, (2019) Homoszexuális, Aszexuális, Pánszexuális - mi mit jelent?</u>](https://www.youtube.com/watch?v=zXZxI-Eb584)
 
-[18] [<u>Partizán, (2023) A Pop extra legparázsabb vitája \[ENG subs\]</u>](https://www.youtube.com/watch?v=OUr2Lw2vJvY)
+\[18] [<u>Partizán, (2023) A Pop extra legparázsabb vitája \[ENG subs]</u>](https://www.youtube.com/watch?v=OUr2Lw2vJvY)
 
-[19] [<u>Zsófilter, (2022) Buzi vagyok, nem LMBTQIA+</u>](https://open.spotify.com/episode/56ZDkpgkmp5HQxZu90l2Bt?si=caa1c6f838f74e5d&nd=1&dlsi=6a936103874e4e47)
+\[19] [<u>Zsófilter, (2022) Buzi vagyok, nem LMBTQIA+</u>](https://open.spotify.com/episode/56ZDkpgkmp5HQxZu90l2Bt?si=caa1c6f838f74e5d&nd=1&dlsi=6a936103874e4e47)
 
-[20] [<u>Zsófilter, (2023) It’s not a civil rights movement, it’s a religion - Helen Joyce</u>](https://www.youtube.com/watch?v=8-TBwhj9il8)
+\[20] [<u>Zsófilter, (2023) It’s not a civil rights movement, it’s a religion - Helen Joyce</u>](https://www.youtube.com/watch?v=8-TBwhj9il8)
 
-[21] [<u>Zsófilter, (2023) A nemváltó kezelések a homoszexualitás elfojtását szolgálják</u>](https://www.youtube.com/watch?v=Ld-w5yHqJfQ)
+\[21] [<u>Zsófilter, (2023) A nemváltó kezelések a homoszexualitás elfojtását szolgálják</u>](https://www.youtube.com/watch?v=Ld-w5yHqJfQ)
 
-[22] [<u>Csányi Gergely & Kováts Eszter, (2020) Excelszemléletű baloldal: Mi az az interszekcionalitás, és mi a baj vele?</u>](https://merce.hu/2020/09/02/excelszemleletu-baloldal-mi-az-az-interszekcionalitas-es-mi-a-baj-vele/)
+\[22] [<u>Csányi Gergely & Kováts Eszter, (2020) Excelszemléletű baloldal: Mi az az interszekcionalitás, és mi a baj vele?</u>](https://merce.hu/2020/09/02/excelszemleletu-baloldal-mi-az-az-interszekcionalitas-es-mi-a-baj-vele/)
 
-[23] [<u>BMC Public Health, (2023) Sexual orientation in transgender adults in the United States</u>](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16654-z#citeas)
+\[23] [<u>BMC Public Health, (2023) Sexual orientation in transgender adults in the United States</u>](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16654-z#citeas)
 
-[24] [<u>Florance Ashley, (2020) A critical commentary on ‘rapid-onset gender dysphoria’</u>](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf)
+\[24] [<u>Florance Ashley, (2020) A critical commentary on ‘rapid-onset gender dysphoria’</u>](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf)
 
-[25] [<u>Rivera, D. P. & Pardo, S. T. (2022) Gender identity change efforts: A summary.</u>](https://psycnet.apa.org/record/2021-98492-003)
+\[25] [<u>Rivera, D. P. & Pardo, S. T. (2022) Gender identity change efforts: A summary.</u>](https://psycnet.apa.org/record/2021-98492-003)
 
-[26] [<u>HírTV, (2024) Tarol az LMBTQ-lobbi a streamingfelületeken + videó</u>](https://hirtv.hu/hirtvszines/tarol-az-lmbtq-lobbi-a-streamingfeluleteken-video-2578999)
+\[26] [<u>HírTV, (2024) Tarol az LMBTQ-lobbi a streamingfelületeken + videó</u>](https://hirtv.hu/hirtvszines/tarol-az-lmbtq-lobbi-a-streamingfeluleteken-video-2578999)
 
-[27] [<u>Harmati András, (2022) Akármi is ez, már nagyon utáljuk, vagy szeretjük: sbfgjgkhgfdesss</u>](https://alfahir.hu/hirek/megyei_lapok_kesma_hiba_sbfgjgkhgfdesss_fidesz_media_propaganda)
+\[27] [<u>Harmati András, (2022) Akármi is ez, már nagyon utáljuk, vagy szeretjük: sbfgjgkhgfdesss</u>](https://alfahir.hu/hirek/megyei_lapok_kesma_hiba_sbfgjgkhgfdesss_fidesz_media_propaganda)
 
-[28] [<u>Origo, (2021) Az LMBTQ-lobbi a klasszikus tündérmeséken keresztül érzékenyítené a gyerekeket</u>](https://www.origo.hu/nagyvilag/20210805-a-klasszikus-tundermeseken-keresztul-erezekenyitene-a-gyerekeket-az-lmbtq-lobbi.html)
+\[28] [<u>Origo, (2021) Az LMBTQ-lobbi a klasszikus tündérmeséken keresztül érzékenyítené a gyerekeket</u>](https://www.origo.hu/nagyvilag/20210805-a-klasszikus-tundermeseken-keresztul-erezekenyitene-a-gyerekeket-az-lmbtq-lobbi.html)
 
-[29] [<u>Kurucinfó, LMBTQP kategória</u>](https://kuruc.info/t/66/)
+\[29] [<u>Kurucinfó, LMBTQP kategória</u>](https://kuruc.info/t/66/)
 
-[30] [<u>Szent Korona Rádió, (2021) Miként teszi tönkre egy generáció életét az LMBTQP és főleg a “transz” lobbi?</u>](https://szentkoronaradio.com/blog/2021/03/02/mikent-teszi-tonkre-egy-generacio-eletet-az-lmbtqp-es-foleg-a-transz-lobbi/)
+\[30] [<u>Szent Korona Rádió, (2021) Miként teszi tönkre egy generáció életét az LMBTQP és főleg a “transz” lobbi?</u>](https://szentkoronaradio.com/blog/2021/03/02/mikent-teszi-tonkre-egy-generacio-eletet-az-lmbtqp-es-foleg-a-transz-lobbi/)
 
-[31] [<u>American Psychological Association (2015) Knowledge Does Not Protect Against Illusory Truth</u>](https://www.apa.org/pubs/journals/features/xge-0000098.pdf)
+\[31] [<u>American Psychological Association (2015) Knowledge Does Not Protect Against Illusory Truth</u>](https://www.apa.org/pubs/journals/features/xge-0000098.pdf)
 
-[32] [<u>Metropol, (2023) Egy budapesti LMBTQ-s fészekben a transzvesztiták szabadon fogdoshatják a gyermekeket</u>](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket)
+\[32] [<u>Metropol, (2023) Egy budapesti LMBTQ-s fészekben a transzvesztiták szabadon fogdoshatják a gyermekeket</u>](https://metropol.hu/aktualis/2023/03/egy-budapesti-lmbtq-s-feszekben-a-transzvesztitak-szabadon-fogdoshatjak-a-gyermekeket)
 
-[33] [<u>888, (2022) Négy évesen „változtatták át” gyermeküket transznemű szülei</u>](https://archivum.888.hu/feher-ferfi/negy-evesen-valtoztattak-at-gyermekuket-transznemu-szulei-4381391/)
+\[33] [<u>888, (2022) Négy évesen „változtatták át” gyermeküket transznemű szülei</u>](https://archivum.888.hu/feher-ferfi/negy-evesen-valtoztattak-at-gyermekuket-transznemu-szulei-4381391/)
 
-[34] [<u>Értékközpontú Pszciológusok Munkacsoportja, (2021) A transzideológia ára: hormonkezelt gyerekek, nemváltó tinik</u>](https://www.hetek.hu/cikkek/hatter/2021julius/a-transzideologia-ara-hormonkezelt-gyerekek-nemvalto-tinik)
+\[34] [<u>Értékközpontú Pszciológusok Munkacsoportja, (2021) A transzideológia ára: hormonkezelt gyerekek, nemváltó tinik</u>](https://www.hetek.hu/cikkek/hatter/2021julius/a-transzideologia-ara-hormonkezelt-gyerekek-nemvalto-tinik)
 
-[35] [<u>Christina M. Roberts & David A. Klein & Terry A. Adirim &, Natasha A. Schvey & Elizabeth Hisle-Gorman, (2022) Continuation of Gender-affirming Hormones Among Transgender Adolescents and Adults</u>](https://pubmed.ncbi.nlm.nih.gov/35452119/)
+\[35] [<u>Christina M. Roberts & David A. Klein & Terry A. Adirim &, Natasha A. Schvey & Elizabeth Hisle-Gorman, (2022) Continuation of Gender-affirming Hormones Among Transgender Adolescents and Adults</u>](https://pubmed.ncbi.nlm.nih.gov/35452119/)
 
-[36] [<u>Skye Davies & Stephen McIntyre & Craig Rypma, (2019) Detransition rates in a national UK Gender Identity Clinic, 118. oldal</u>](https://cdn.discordapp.com/attachments/742557921849901077/983121712453386270/davies2019.pdf#page=139)
+\[36] [<u>Skye Davies & Stephen McIntyre & Craig Rypma, (2019) Detransition rates in a national UK Gender Identity Clinic, 118. oldal</u>](https://cdn.discordapp.com/attachments/742557921849901077/983121712453386270/davies2019.pdf#page=139)
 
-[37] [<u>J. Cohn, (2023) The Detransition Rate is Unknown</u>](https://link.springer.com/article/10.1007/s10508-023-02623-5)
+\[37] [<u>J. Cohn, (2023) The Detransition Rate is Unknown</u>](https://link.springer.com/article/10.1007/s10508-023-02623-5)
 
-[38] [<u>Madelyn Beck, (2023) Health experts: Gender-affirming care saves lives</u>](https://wyofile.com/health-experts-gender-affirming-care-saves-lives/)
+\[38] [<u>Madelyn Beck, (2023) Health experts: Gender-affirming care saves lives</u>](https://wyofile.com/health-experts-gender-affirming-care-saves-lives/)
 
-[39] [<u>ODIHR, (2022), National frameworks to address hate crime in Hungary</u>](https://hatecrime.osce.org/national-frameworks-hungary#dataCollection)
+\[39] [<u>ODIHR, (2022), National frameworks to address hate crime in Hungary</u>](https://hatecrime.osce.org/national-frameworks-hungary#dataCollection)
