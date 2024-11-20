@@ -14,9 +14,9 @@ author: jacint
 
 Ezen dolgozat elsődleges célja, hogy specifikusan a média nyelvhasználatát elemezze a témában, emellett azt, hogy ez hogyan gyűrűzik ki a szélesebb közbeszédbe, végül pedig, hogy ez miképp járul hozzá az érintettek helyzetének romlásához.
 
-## **<span class="smallcaps">ELSŐ FEJEZET</span>**
+# **<span class="smallcaps">ELSŐ FEJEZET</span>**
 
-### **<span class="smallcaps">Mi a dehumanizáló nyelvezet</span>**
+## **<span class="smallcaps">Mi a dehumanizáló nyelvezet</span>**
 
 Dehumanizáló nyelvezetnek számít minden, ami impliciten vagy expliciten bizonyos embereket, vagy embercsoportokat ember alattiként állít be. Külön hangsúly helyezendő az ember **alá** rendelésére. Nem csak szeparáció történik a többi embertől, hanem egy velük szembeni hierarchia felállítása is.
 
@@ -28,7 +28,7 @@ A dehumanizáció komplex folyamat, ami túlmegy egyes csoportok negatív szavak
 
 A status quot védő média teljes erejével körbekürtöli az ilyen eseteket, ezzel dobogó szívévé válva a hatalmat védő, önigazoló ideológia körforgásának.
 
-### **<span class="smallcaps">Rövid történelmi áttekintése a 20. század második felének</span>**
+## **<span class="smallcaps">Rövid történelmi áttekintése a 20. század második felének</span>**
 
 Könnyedén elérhető források híján ez a fejezet szinte kizárólag a Háttér Társaság *Az üldöztetéstől a büszkeségig* digitális kiállításán alapszik, és effektíve az ő cikküknek [[Kádár-korszak]](https://lmbtqitortenelem.hu/page/kadarkorszak) [[Rendszerváltás]](https://lmbtqitortenelem.hu/page/rendszervaltas) az összefoglalója. Nehezen végigkövethető, hogy nyelvhasználat szintjén miképp kezelték a homoszexualitást, ugyanis a Rákosi és a Kádár “államszocialista” rendszerekben egy aktívan tiltott és titkolt jelenség volt. A média nagyon ritkán vett tudomást ilyesféle viselkedés vagy identitás létezéséről, és bár technikailag a Kádár korszak nagy részében dekriminalizált volt a homoszexualitás, a meleg férfiak mégis megfigyelés alatt álltak, emellett besúgásra voltak kényszerítve.
 
@@ -50,9 +50,9 @@ A kilencvenes években szabaddá váló közbeszéd viszont a homofób vélemén
 
 Ennek ellenére a fősodratú médiában nem volt teljesen sötét minden. A 90-es években a magyar nyelvű televíziós műsorok történetében először megjelent egy de facto nyíltan meleg karakter a Szomszédok című sorozat egyik mellékszereplőjeként. Mai szemmel mindenképp különösnek tűnhet Oli urat, a sztereotíp meleg fodrászt úttörő karakterként leírni, főleg, hogy maga a Szomszédok rendezője is pusztán [gúnyolás céljából készítette őt melegnek](https://www.origo.hu/teve/20090729-szomszedok-oli-ur-mint-az-elso-magyar-meleg-karakter-horvath.html), de a tényen nem változtat, hogy az itthoni nagyközönség először láthatott egy homoszexuálisnak vélt karaktert, aki szórakoztató és szerethető volt. Bár ez nem jelentette a kezdetét egy forradalmi kulturális átalakulásnak, de jele volt egy lassú, pozitív tendenciának, ami egészen az elmúlt néhány éve kezdődő, felülről indított, mesterséges kulturális backlashig tartott.
 
-## **<span class="smallcaps">MÁSODIK FEJEZET</span>**
+# **<span class="smallcaps">MÁSODIK FEJEZET</span>**
 
-### **<span class="smallcaps">A melegek és leszbikusok helyzete</span>**
+## **<span class="smallcaps">A melegek és leszbikusok helyzete</span>**
 
 A lassan egyre javuló közvélemény ellenére a kortárs fősodratú magyar médiában szinte nem létező témakör volt a melegség vagy a leszbikusság 2021-ig, 2021 után pedig de facto illegálissá vált, kivéve, ha nyíltan negatív a megjelenítés. Az egyetlen mainstream magyar film az elmúlt 14 évben, amiben található prominens meleg karakter, az a *Coming out*, ami minden esetleges írói jó szándék ellenére arról szól, hogy [*„egy meleg férfi rájön, nem is a fiúkat szereti, csak még nem találta meg a megfelelő lányt.”*](https://index.hu/kultur/2013/12/05/nem_faj_annyira_a_coming_out/) Ez egy biszexuálisok és aszexuálisok esetében gyakoribb, de melegeknél sem ritka sztereotípiát jelenít meg, miszerint egy adott személy (vagy akár mindenki) valójában heteroszexuális legbelül. Ehhez nők és más afab `(AFAB: Assigned female at birth: Születésekor nőként meghatározott)` személyek esetében gyakran járulnak hozzá megjegyzések, hogy “még csak nem b\*szta meg senki elég jól”, vagy egyéb hasonló megszólalások, melyek arra utalnak, hogy biztosan a rossz minőségű vagy nem létező szexuális életük miatt gondolják magukat annak, akik.
 
@@ -99,9 +99,9 @@ Ezután pedig ilyen válaszok érkeztek:
 Egy másik mítosz a politikailag moderáltak közt, hogy a szélsőségek csak megszülik a másik szélsőséget, így az extrém homofóbia visszafelé fog elsütni. Egy féligazság van az elképzelésben, de vajmi keveset számít a Medián vagy a Társadalomkutató Kft. enyhén felfelé menő vonalai, ha már vér fog folyni. Muszájnak tartom újra kihangsúlyozni: a fasisztáknak nem érdeke a demokrácia szabályai szerint játszani. Nem szükséges hatalomra törésükhöz egy többség kialakítása, megfelel egy elégségesen erőszakos kisebbség is.
 
   
-## **<span class="smallcaps">HARMADIK FEJEZET</span>**
+# **<span class="smallcaps">HARMADIK FEJEZET</span>**
 
-### **<span class="smallcaps">A biszexuálisok és aszexuálisok helyzete</span>**
+## **<span class="smallcaps">A biszexuálisok és aszexuálisok helyzete</span>**
 
 Elsőnek különösnek tűnhet ezen két szexualitás egy fejezetbe való társítása, (főleg, hogy az aszexualitás is inkább egy spektrum/gyűjtőfogalom, mintsem egy darab szexualitás), viszont összeköti őket, hogy mindkét csoport gyakran effektíve nem létezőként van kezelve. A mainstream elsősorban a melegekre és a transzneműekre fókuszál. Elsőre ez annak is tűnhet, hogy az előítéletesség ezen csoportokkal szemben alacsonyabb, és bár az aktív, dühös gyűlölet kevesebb, nem szabad alábecsülni a halk eltörlés hatását. A láthatatlanság és a személyes identitás folyamatos invalidációja is képes [negatívan hatni az egyénre](https://www.sciencedirect.com/science/article/abs/pii/S0272735823000922).
 
@@ -138,9 +138,9 @@ Pozitív ellenpélda a magyar médiában a majdnem 300 000 feliratkozóval rende
 A fejezet zárása előtt megjegyzendő, hogy bár a biszexuálisok másfajta előítéletességekkel is szembenéznek, mint a homoszexuálisok, de a velük egynemű emberekhez való vonzódás lehetősége miatt a homofóbia egy őket is érintő jelenség, így a halk eltörlés ellenére biszexuálisok is áldozatai ugyanazoknak a támadásoknak, amiknek a melegek és leszbikusok is.
 
   
-## **NEGYEDIK <span class="smallcaps">FEJEZET</span>**
+# **NEGYEDIK <span class="smallcaps">FEJEZET</span>**
 
-### **<span class="smallcaps">A transzneműek és nembinárisok helyzete</span>**
+## **<span class="smallcaps">A transzneműek és nembinárisok helyzete</span>**
 
 Kétségkívül kijelenthető, hogy jelenleg Magyarországon a transzneműek a legtöbb ellenszenvet szenvedő csoport a queer közösségben. A legkülönösebb jelenség, hogy a magukat baloldalinak nevező média platformok jó része is ugyanazokat az előítéleket és összeesküvés-elméleteket mondják vissza, mint amit a magyar állami TV. A Partizán nevű YouTube-os médiaóriás például egy az egyben az ún. „gender kritikus” feminizmust képviseli. Gulyás Márton, a csatorna főműsorvezetője például [nem ismeri el a transznemű nők nemi identitását](https://www.youtube.com/watch?v=OUr2Lw2vJvY), a cisznemű nők jogainak védelmére hivatkozva. Balogh Zsófia, a Partizán rezidens feministája pedig évek óta dolgozik a brit LGB és TERF mozgalmak honosításán [[1]](https://open.spotify.com/episode/56ZDkpgkmp5HQxZu90l2Bt?si=caa1c6f838f74e5d&nd=1&dlsi=6a936103874e4e47) [[2]](https://www.youtube.com/watch?v=8-TBwhj9il8) [[3]](https://www.youtube.com/watch?v=Ld-w5yHqJfQ).
 
