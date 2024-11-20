@@ -20,7 +20,7 @@ Ellátással, szolgáltatásokkal kapcsolatos:
 
 Közösségek:
 
-[Magyartransz subreddit](reddit.com/r/magyartransz)
+[Magyartransz subreddit](https://reddit.com/r/magyartransz)
 
 
 Youtuberek:
