@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Mártix bevezető - szabad, decentralizált kommunikáció mindenkinek
 date: 2024-12-08T21:10:00.000Z
 author: anonymous
