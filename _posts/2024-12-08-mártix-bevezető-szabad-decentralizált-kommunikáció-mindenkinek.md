@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Mártix bevezető - szabad, decentralizált kommunikáció mindenkinek
+title: Mátrix bevezető - szabad, decentralizált kommunikáció mindenkinek
 date: 2024-12-08T21:10:00.000Z
 author: anonymous
+tags: matrix
 ---
 ## Mi a mátrix
 
