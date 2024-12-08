@@ -2,7 +2,7 @@
 layout: blog
 title: Mártix bevezető - szabad, decentralizált kommunikáció mindenkinek
 date: 2024-12-08T21:10:00.000Z
-author: Anonymous
+author: anonymous
 tags: matrix online biztonság lgbt biztonságos tér
 ---
 ## Mi a mátrix
