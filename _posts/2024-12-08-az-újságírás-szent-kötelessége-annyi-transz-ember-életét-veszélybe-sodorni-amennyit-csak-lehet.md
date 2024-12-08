@@ -1,11 +1,10 @@
 ---
-layout: blog
+layout: post
 title: Az Újságírás Szent Kötelessége Annyi Transz Ember Életét Veszélybe
   Sodorni, Amennyit Csak Lehet
 date: 2024-12-08T22:10:00.000Z
 thumbnail: /images/uploads/pexels-suzyhazelwood-1995842.jpg
 author: worldless
-tags: fordítás
 ---
 Az alábbi cikk egy szatíra. Az eredeti cikk a The Onion oldalán 
 jelent meg angolul. A magyar fordítást a The Onion szerkesztőségének 
