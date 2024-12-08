@@ -2,7 +2,7 @@
 layout: blog
 title: Az Újságírás Szent Kötelessége Annyi Transz Ember Életét Veszélybe
   Sodorni, Amennyit Csak Lehet
-date: 2024-12-08T21:39:00.000Z
+date: 2024-12-08T21:46:00.000Z
 thumbnail: /images/uploads/pexels-suzyhazelwood-1995842.jpg
 author: worldless
 tags: fordítás
