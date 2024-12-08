@@ -204,3 +204,4 @@ plugins:
 jekyll_get_json:
   - data: videok
     json: 'https://duc.gay/videok.json'
+future: true
