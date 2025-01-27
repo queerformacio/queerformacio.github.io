@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: blog
 title: Mindenki transznak néz ki - Te is!
-date: 2025-01-26T17:35:00.000Z
+date: 2025-01-26T16:45:00.000Z
 author: lexa
-tags: transzneműség, passing, nemi sztereotípiák, társadalmi elvárások
+tags: transzneműség diszkrimináció passing sztereotípiák
 ---
 Mindenki transznak néz ki. Legalábbis, ha elég ideig vizslatják - nem ritkán rosszindulatú - gyanakvással az embert, akkor mindenképp. De mégis miért tenne ilyet bárki?
 
