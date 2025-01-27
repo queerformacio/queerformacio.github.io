@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Mindenki transznak néz ki - Te is!
 date: 2025-01-26T17:35:00.000Z
 author: lexa
